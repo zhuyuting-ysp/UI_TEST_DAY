@@ -1,0 +1,57 @@
+{
+  "uid" : "9f8e60e67ff2c1bb",
+  "name" : "test_begin",
+  "fullName" : "case.mp.test_begin.TestBegin#test_begin",
+  "historyId" : "a4dfefd3d665390e4cb1d1df8884ef92",
+  "time" : {
+    "start" : 1598445355095,
+    "stop" : 1598445355095,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mp"
+  }, {
+    "name" : "suite",
+    "value" : "test_begin"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBegin"
+  }, {
+    "name" : "host",
+    "value" : "zyt"
+  }, {
+    "name" : "thread",
+    "value" : "8992-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mp.test_begin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "9f8e60e67ff2c1bb.json",
+  "parameterValues" : [ ]
+}

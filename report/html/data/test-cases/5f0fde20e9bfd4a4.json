@@ -1,0 +1,99 @@
+{
+  "uid" : "5f0fde20e9bfd4a4",
+  "name" : "test_begin",
+  "fullName" : "case.mis.test_begin.TestBegin#test_begin",
+  "historyId" : "e963808b05bb31fe9a655524ed884d05",
+  "time" : {
+    "start" : 1598514176988,
+    "stop" : 1598514176989,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=101)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mis"
+  }, {
+    "name" : "suite",
+    "value" : "test_begin"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBegin"
+  }, {
+    "name" : "host",
+    "value" : "zyt"
+  }, {
+    "name" : "thread",
+    "value" : "2024-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mis.test_begin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a3d9adb30c1fb3e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598445859857,
+        "stop" : 1598445859857,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ac61408d9c0f1518",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598445720632,
+        "stop" : 1598445720632,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c0946c8e9319079d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598445510315,
+        "stop" : 1598445510315,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4b9c0e9a9988635e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598445371815,
+        "stop" : 1598445371815,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1083faa60094779f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598432263482,
+        "stop" : 1598432263482,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=101)" ]
+  },
+  "source" : "5f0fde20e9bfd4a4.json",
+  "parameterValues" : [ ]
+}

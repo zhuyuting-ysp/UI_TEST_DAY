@@ -1,0 +1,899 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "zyt",
+    "children" : [ {
+      "name" : "21336-MainThread",
+      "children" : [ {
+        "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-人工智能-新增文章成功]",
+        "uid" : "3758e4984ff8a092",
+        "parentUid" : "c6e7e2e00dea828e93826850f6008824",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598514722969,
+          "stop" : 1598514726981,
+          "duration" : 4012
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-软件测试-新增文章成功]",
+        "uid" : "26318c07d92e943a",
+        "parentUid" : "c6e7e2e00dea828e93826850f6008824",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514714051,
+          "stop" : 1598514722717,
+          "duration" : 8666
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_end",
+        "uid" : "66eecce63b35cf66",
+        "parentUid" : "c6e7e2e00dea828e93826850f6008824",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514727102,
+          "stop" : 1598514733229,
+          "duration" : 6127
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mp_login",
+        "uid" : "73926b98aaade0f3",
+        "parentUid" : "c6e7e2e00dea828e93826850f6008824",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514712524,
+          "stop" : 1598514713677,
+          "duration" : 1153
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "bcb49e0c4744bd35",
+        "parentUid" : "c6e7e2e00dea828e93826850f6008824",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514706084,
+          "stop" : 1598514706084,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c6e7e2e00dea828e93826850f6008824"
+    }, {
+      "name" : "22936-MainThread",
+      "children" : [ {
+        "name" : "test_begin",
+        "uid" : "d8a31c5394e8b244",
+        "parentUid" : "9bf04011e30f36cb4a3ad539c46fbeec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432247594,
+          "stop" : 1598432247594,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-软件测试-新增文章成功]",
+        "uid" : "52118b6681a8d202",
+        "parentUid" : "9bf04011e30f36cb4a3ad539c46fbeec",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598432255021,
+          "stop" : 1598432256048,
+          "duration" : 1027
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_mis_login",
+        "uid" : "8e5e5ae3d28d73ae",
+        "parentUid" : "9bf04011e30f36cb4a3ad539c46fbeec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432282580,
+          "stop" : 1598432283132,
+          "duration" : 552
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-人工智能-新增文章成功]",
+        "uid" : "39109da68dfd5844",
+        "parentUid" : "9bf04011e30f36cb4a3ad539c46fbeec",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598432256384,
+          "stop" : 1598432257363,
+          "duration" : 979
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_mp_login",
+        "uid" : "4669fda228e8e462",
+        "parentUid" : "9bf04011e30f36cb4a3ad539c46fbeec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432253608,
+          "stop" : 1598432254770,
+          "duration" : 1162
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_aduit_ari_pass",
+        "uid" : "c459819ddf4be153",
+        "parentUid" : "9bf04011e30f36cb4a3ad539c46fbeec",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598432269869,
+          "stop" : 1598432269869,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_end",
+        "uid" : "5a35fb14e6f7d31d",
+        "parentUid" : "9bf04011e30f36cb4a3ad539c46fbeec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432269880,
+          "stop" : 1598432275970,
+          "duration" : 6090
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "1083faa60094779f",
+        "parentUid" : "9bf04011e30f36cb4a3ad539c46fbeec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432263482,
+          "stop" : 1598432263482,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_end",
+        "uid" : "12989ed0d640aae2",
+        "parentUid" : "9bf04011e30f36cb4a3ad539c46fbeec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432257387,
+          "stop" : 1598432263477,
+          "duration" : 6090
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9bf04011e30f36cb4a3ad539c46fbeec"
+    }, {
+      "name" : "16348-MainThread",
+      "children" : [ {
+        "name" : "test_mis_login",
+        "uid" : "514291f2371e7a92",
+        "parentUid" : "6dccfbfd25c6fd80c7a8be184a961673",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445727083,
+          "stop" : 1598445727884,
+          "duration" : 801
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_aduit_ari_pass",
+        "uid" : "e761f36dd7783c3e",
+        "parentUid" : "6dccfbfd25c6fd80c7a8be184a961673",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598445727889,
+          "stop" : 1598445734982,
+          "duration" : 7093
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mp_login",
+        "uid" : "10f15cefbd14e02b",
+        "parentUid" : "6dccfbfd25c6fd80c7a8be184a961673",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445698505,
+          "stop" : 1598445699704,
+          "duration" : 1199
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-软件测试-新增文章成功]",
+        "uid" : "2eaf471e85643163",
+        "parentUid" : "6dccfbfd25c6fd80c7a8be184a961673",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445700016,
+          "stop" : 1598445709092,
+          "duration" : 9076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_end",
+        "uid" : "661b2e0eba34d03d",
+        "parentUid" : "6dccfbfd25c6fd80c7a8be184a961673",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445714475,
+          "stop" : 1598445720627,
+          "duration" : 6152
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "78b2a91b1e348c9",
+        "parentUid" : "6dccfbfd25c6fd80c7a8be184a961673",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445692129,
+          "stop" : 1598445692129,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-人工智能-新增文章成功]",
+        "uid" : "6147ed95c2367ada",
+        "parentUid" : "6dccfbfd25c6fd80c7a8be184a961673",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445709421,
+          "stop" : 1598445714461,
+          "duration" : 5040
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "ac61408d9c0f1518",
+        "parentUid" : "6dccfbfd25c6fd80c7a8be184a961673",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445720632,
+          "stop" : 1598445720632,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_end",
+        "uid" : "a1c7c14fae318f27",
+        "parentUid" : "6dccfbfd25c6fd80c7a8be184a961673",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445735129,
+          "stop" : 1598445741277,
+          "duration" : 6148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6dccfbfd25c6fd80c7a8be184a961673"
+    }, {
+      "name" : "18896-MainThread",
+      "children" : [ {
+        "name" : "test_begin",
+        "uid" : "23440fb5dbe95589",
+        "parentUid" : "9ff131cfc74d2f5b90323aa6d6dd81b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445831114,
+          "stop" : 1598445831114,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mp_login",
+        "uid" : "6178f52ca2cff12d",
+        "parentUid" : "9ff131cfc74d2f5b90323aa6d6dd81b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445837711,
+          "stop" : 1598445838885,
+          "duration" : 1174
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_end",
+        "uid" : "cf1716492b66c230",
+        "parentUid" : "9ff131cfc74d2f5b90323aa6d6dd81b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445853711,
+          "stop" : 1598445859853,
+          "duration" : 6142
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-软件测试-新增文章成功]",
+        "uid" : "f2cbb433781821eb",
+        "parentUid" : "9ff131cfc74d2f5b90323aa6d6dd81b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445839211,
+          "stop" : 1598445848391,
+          "duration" : 9180
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "a3d9adb30c1fb3e8",
+        "parentUid" : "9ff131cfc74d2f5b90323aa6d6dd81b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445859857,
+          "stop" : 1598445859857,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_end",
+        "uid" : "453add26b0fb793b",
+        "parentUid" : "9ff131cfc74d2f5b90323aa6d6dd81b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445878849,
+          "stop" : 1598445884977,
+          "duration" : 6128
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mis_login",
+        "uid" : "e66c5d65dfe35a41",
+        "parentUid" : "9ff131cfc74d2f5b90323aa6d6dd81b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445866355,
+          "stop" : 1598445867120,
+          "duration" : 765
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-人工智能-新增文章成功]",
+        "uid" : "2f753acf5c0522ff",
+        "parentUid" : "9ff131cfc74d2f5b90323aa6d6dd81b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445848725,
+          "stop" : 1598445853701,
+          "duration" : 4976
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_aduit_ari_pass",
+        "uid" : "cfff8ab4911a60e4",
+        "parentUid" : "9ff131cfc74d2f5b90323aa6d6dd81b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445867127,
+          "stop" : 1598445878845,
+          "duration" : 11718
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9ff131cfc74d2f5b90323aa6d6dd81b7"
+    }, {
+      "name" : "8992-MainThread",
+      "children" : [ {
+        "name" : "test_aduit_ari_pass",
+        "uid" : "d9aa11ba47aa4e04",
+        "parentUid" : "78ab65ba846424eb712acb3ed7249cd8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598445379357,
+          "stop" : 1598445379753,
+          "duration" : 396
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "9f8e60e67ff2c1bb",
+        "parentUid" : "78ab65ba846424eb712acb3ed7249cd8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445355095,
+          "stop" : 1598445355095,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-软件测试-新增文章成功]",
+        "uid" : "5e8f00c5c06e2dd9",
+        "parentUid" : "78ab65ba846424eb712acb3ed7249cd8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598445363584,
+          "stop" : 1598445364304,
+          "duration" : 720
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-人工智能-新增文章成功]",
+        "uid" : "91a82f5f22262962",
+        "parentUid" : "78ab65ba846424eb712acb3ed7249cd8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598445364852,
+          "stop" : 1598445365692,
+          "duration" : 840
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "4b9c0e9a9988635e",
+        "parentUid" : "78ab65ba846424eb712acb3ed7249cd8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445371815,
+          "stop" : 1598445371815,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_end",
+        "uid" : "d13d7306aab39ba1",
+        "parentUid" : "78ab65ba846424eb712acb3ed7249cd8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445365718,
+          "stop" : 1598445371811,
+          "duration" : 6093
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mp_login",
+        "uid" : "87dfcdfe364c5d79",
+        "parentUid" : "78ab65ba846424eb712acb3ed7249cd8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445361702,
+          "stop" : 1598445363093,
+          "duration" : 1391
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_end",
+        "uid" : "ca8ee7f7210283d5",
+        "parentUid" : "78ab65ba846424eb712acb3ed7249cd8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445379779,
+          "stop" : 1598445386984,
+          "duration" : 7205
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mis_login",
+        "uid" : "4c9b753e073f9dc5",
+        "parentUid" : "78ab65ba846424eb712acb3ed7249cd8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445378584,
+          "stop" : 1598445379352,
+          "duration" : 768
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "78ab65ba846424eb712acb3ed7249cd8"
+    }, {
+      "name" : "2024-MainThread",
+      "children" : [ {
+        "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-软件测试-新增文章成功]",
+        "uid" : "baa43cf63ed96e1e",
+        "parentUid" : "8f212c4ad8546b27752fa10f789b944b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514156780,
+          "stop" : 1598514165695,
+          "duration" : 8915
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "e0e0c66eb9063ebb",
+        "parentUid" : "8f212c4ad8546b27752fa10f789b944b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514148481,
+          "stop" : 1598514148481,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mp_login",
+        "uid" : "5853e2bc19f23d58",
+        "parentUid" : "8f212c4ad8546b27752fa10f789b944b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514155228,
+          "stop" : 1598514156448,
+          "duration" : 1220
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "5f0fde20e9bfd4a4",
+        "parentUid" : "8f212c4ad8546b27752fa10f789b944b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514176988,
+          "stop" : 1598514176989,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mis_login",
+        "uid" : "8473120bb30bccb3",
+        "parentUid" : "8f212c4ad8546b27752fa10f789b944b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514183850,
+          "stop" : 1598514184642,
+          "duration" : 792
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_end",
+        "uid" : "df1aa0c0dba64d6a",
+        "parentUid" : "8f212c4ad8546b27752fa10f789b944b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514218676,
+          "stop" : 1598514224761,
+          "duration" : 6085
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_aduit_ari_pass",
+        "uid" : "12a87d3eb55b109e",
+        "parentUid" : "8f212c4ad8546b27752fa10f789b944b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598514184647,
+          "stop" : 1598514218621,
+          "duration" : 33974
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_qy_aritcal_1_linux",
+        "uid" : "c70c50633ead38c7",
+        "parentUid" : "8f212c4ad8546b27752fa10f789b944b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598514265473,
+          "stop" : 1598514298698,
+          "duration" : 33225
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_end",
+        "uid" : "aa9a2d4db35a1ca4",
+        "parentUid" : "8f212c4ad8546b27752fa10f789b944b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514170888,
+          "stop" : 1598514176983,
+          "duration" : 6095
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-人工智能-新增文章成功]",
+        "uid" : "c83ffd0d1d37fd52",
+        "parentUid" : "8f212c4ad8546b27752fa10f789b944b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514165960,
+          "stop" : 1598514170877,
+          "duration" : 4917
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_qy_aritcal_0__",
+        "uid" : "c25a6ed7dbd45960",
+        "parentUid" : "8f212c4ad8546b27752fa10f789b944b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598514233214,
+          "stop" : 1598514265431,
+          "duration" : 32217
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8f212c4ad8546b27752fa10f789b944b"
+    }, {
+      "name" : "12920-MainThread",
+      "children" : [ {
+        "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-软件测试-新增文章成功]",
+        "uid" : "c7753430c14a7321",
+        "parentUid" : "40d007fb69dbab8b46946f7a4869932f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514762285,
+          "stop" : 1598514771038,
+          "duration" : 8753
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_end",
+        "uid" : "c4c4389fe68dd4f",
+        "parentUid" : "40d007fb69dbab8b46946f7a4869932f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514776364,
+          "stop" : 1598514782489,
+          "duration" : 6125
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-人工智能-新增文章成功]",
+        "uid" : "b4e9d189a29362a2",
+        "parentUid" : "40d007fb69dbab8b46946f7a4869932f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514771332,
+          "stop" : 1598514776354,
+          "duration" : 5022
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "746ff5a59732061b",
+        "parentUid" : "40d007fb69dbab8b46946f7a4869932f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514754838,
+          "stop" : 1598514754838,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mp_login",
+        "uid" : "9785260a91d6d3b7",
+        "parentUid" : "40d007fb69dbab8b46946f7a4869932f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598514760822,
+          "stop" : 1598514761957,
+          "duration" : 1135
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "40d007fb69dbab8b46946f7a4869932f"
+    }, {
+      "name" : "15312-MainThread",
+      "children" : [ {
+        "name" : "test_mp_login",
+        "uid" : "c8434fe82d6b32bd",
+        "parentUid" : "4c1d5a139b9faca2810ad92a1996bc7b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445500077,
+          "stop" : 1598445501082,
+          "duration" : 1005
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "3fa0e5a7581557fd",
+        "parentUid" : "4c1d5a139b9faca2810ad92a1996bc7b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445493750,
+          "stop" : 1598445493750,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-人工智能-新增文章成功]",
+        "uid" : "af0ea1387619f03c",
+        "parentUid" : "4c1d5a139b9faca2810ad92a1996bc7b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598445503090,
+          "stop" : 1598445504120,
+          "duration" : 1030
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_end",
+        "uid" : "5a15b69efa9a38f3",
+        "parentUid" : "4c1d5a139b9faca2810ad92a1996bc7b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445504167,
+          "stop" : 1598445510310,
+          "duration" : 6143
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-软件测试-新增文章成功]",
+        "uid" : "748bd788fc8b2307",
+        "parentUid" : "4c1d5a139b9faca2810ad92a1996bc7b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598445501451,
+          "stop" : 1598445502570,
+          "duration" : 1119
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_aduit_ari_pass",
+        "uid" : "40a8e10ebaa4287e",
+        "parentUid" : "4c1d5a139b9faca2810ad92a1996bc7b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598445517592,
+          "stop" : 1598445518064,
+          "duration" : 472
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mis_login",
+        "uid" : "3a5addd20534536a",
+        "parentUid" : "4c1d5a139b9faca2810ad92a1996bc7b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445516783,
+          "stop" : 1598445517586,
+          "duration" : 803
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "c0946c8e9319079d",
+        "parentUid" : "4c1d5a139b9faca2810ad92a1996bc7b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445510315,
+          "stop" : 1598445510315,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_end",
+        "uid" : "3cea2a31546e03a6",
+        "parentUid" : "4c1d5a139b9faca2810ad92a1996bc7b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598445518083,
+          "stop" : 1598445524210,
+          "duration" : 6127
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4c1d5a139b9faca2810ad92a1996bc7b"
+    } ],
+    "uid" : "ccc9b6a3de3b807f692e3d2ab756c063"
+  } ]
+}

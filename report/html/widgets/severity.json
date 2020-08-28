@@ -1,0 +1,111 @@
+[ {
+  "uid" : "df1aa0c0dba64d6a",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1598514218676,
+    "stop" : 1598514224761,
+    "duration" : 6085
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "746ff5a59732061b",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598514754838,
+    "stop" : 1598514754838,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f0fde20e9bfd4a4",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598514176988,
+    "stop" : 1598514176989,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4e9d189a29362a2",
+  "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-人工智能-新增文章成功]",
+  "time" : {
+    "start" : 1598514771332,
+    "stop" : 1598514776354,
+    "duration" : 5022
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8473120bb30bccb3",
+  "name" : "test_mis_login",
+  "time" : {
+    "start" : 1598514183850,
+    "stop" : 1598514184642,
+    "duration" : 792
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "9785260a91d6d3b7",
+  "name" : "test_mp_login",
+  "time" : {
+    "start" : 1598514760822,
+    "stop" : 1598514761957,
+    "duration" : 1135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c25a6ed7dbd45960",
+  "name" : "test_qy_aritcal_0__",
+  "time" : {
+    "start" : 1598514233214,
+    "stop" : 1598514265431,
+    "duration" : 32217
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c7753430c14a7321",
+  "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-软件测试-新增文章成功]",
+  "time" : {
+    "start" : 1598514762285,
+    "stop" : 1598514771038,
+    "duration" : 8753
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c4c4389fe68dd4f",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1598514776364,
+    "stop" : 1598514782489,
+    "duration" : 6125
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12a87d3eb55b109e",
+  "name" : "test_aduit_ari_pass",
+  "time" : {
+    "start" : 1598514184647,
+    "stop" : 1598514218621,
+    "duration" : 33974
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c70c50633ead38c7",
+  "name" : "test_qy_aritcal_1_linux",
+  "time" : {
+    "start" : 1598514265473,
+    "stop" : 1598514298698,
+    "duration" : 33225
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

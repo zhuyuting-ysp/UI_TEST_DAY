@@ -1,0 +1,196 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "case",
+    "children" : [ {
+      "name" : "mis",
+      "children" : [ {
+        "name" : "test_begin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "5f0fde20e9bfd4a4",
+          "parentUid" : "07171998de8febc01b7526d5044e7c9d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598514176988,
+            "stop" : 1598514176989,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "07171998de8febc01b7526d5044e7c9d"
+      }, {
+        "name" : "test_mis_login",
+        "children" : [ {
+          "name" : "test_mis_login",
+          "uid" : "8473120bb30bccb3",
+          "parentUid" : "eff03b0ca789d9f39f4ea0f6fe90f9f1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598514183850,
+            "stop" : 1598514184642,
+            "duration" : 792
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "eff03b0ca789d9f39f4ea0f6fe90f9f1"
+      }, {
+        "name" : "test_aritcal_manage",
+        "children" : [ {
+          "name" : "test_aduit_ari_pass",
+          "uid" : "12a87d3eb55b109e",
+          "parentUid" : "a2d5f4de0fb9c546e5265a3a2a80cb78",
+          "status" : "broken",
+          "time" : {
+            "start" : 1598514184647,
+            "stop" : 1598514218621,
+            "duration" : 33974
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a2d5f4de0fb9c546e5265a3a2a80cb78"
+      }, {
+        "name" : "test_end",
+        "children" : [ {
+          "name" : "test_end",
+          "uid" : "df1aa0c0dba64d6a",
+          "parentUid" : "6aae1f0f4ed2cfe911b2357246e73404",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598514218676,
+            "stop" : 1598514224761,
+            "duration" : 6085
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6aae1f0f4ed2cfe911b2357246e73404"
+      } ],
+      "uid" : "dce4d8f71ea6895c566b72c2a17cbd50"
+    }, {
+      "name" : "app.test_query_aritcal",
+      "children" : [ {
+        "name" : "test_qy_aritcal_0__",
+        "uid" : "c25a6ed7dbd45960",
+        "parentUid" : "ed4241713bdfa907786a119e397ed5f6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598514233214,
+          "stop" : 1598514265431,
+          "duration" : 32217
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_qy_aritcal_1_linux",
+        "uid" : "c70c50633ead38c7",
+        "parentUid" : "ed4241713bdfa907786a119e397ed5f6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598514265473,
+          "stop" : 1598514298698,
+          "duration" : 33225
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "app.test_query_aritcal"
+    }, {
+      "name" : "mp",
+      "children" : [ {
+        "name" : "test_begin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "746ff5a59732061b",
+          "parentUid" : "483a23d8988956c5156815f02b8bb31d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598514754838,
+            "stop" : 1598514754838,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "483a23d8988956c5156815f02b8bb31d"
+      }, {
+        "name" : "test_mp_login",
+        "children" : [ {
+          "name" : "test_mp_login",
+          "uid" : "9785260a91d6d3b7",
+          "parentUid" : "e5d8885fd53b21d70f3d09f41aa777fc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598514760822,
+            "stop" : 1598514761957,
+            "duration" : 1135
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e5d8885fd53b21d70f3d09f41aa777fc"
+      }, {
+        "name" : "test_pub_aritcle",
+        "children" : [ {
+          "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-软件测试-新增文章成功]",
+          "uid" : "c7753430c14a7321",
+          "parentUid" : "6188c6bcdc49b08b58994be78082a873",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598514762285,
+            "stop" : 1598514771038,
+            "duration" : 8753
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'软件测试'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+        }, {
+          "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-人工智能-新增文章成功]",
+          "uid" : "b4e9d189a29362a2",
+          "parentUid" : "6188c6bcdc49b08b58994be78082a873",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598514771332,
+            "stop" : 1598514776354,
+            "duration" : 5022
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'人工智能'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+        } ],
+        "uid" : "6188c6bcdc49b08b58994be78082a873"
+      }, {
+        "name" : "test_end",
+        "children" : [ {
+          "name" : "test_end",
+          "uid" : "c4c4389fe68dd4f",
+          "parentUid" : "7a7eef47d6905cd43ddd52ef4057502b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598514776364,
+            "stop" : 1598514782489,
+            "duration" : 6125
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7a7eef47d6905cd43ddd52ef4057502b"
+      } ],
+      "uid" : "f729e3ae600bc8065b475ad9e41d1771"
+    } ],
+    "uid" : "3a5ff917f72cbd03b2a2ff2549394ef0"
+  } ]
+}

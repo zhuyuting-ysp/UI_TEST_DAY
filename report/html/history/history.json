@@ -1,0 +1,214 @@
+{
+  "a2c1126bbeac2382c7b4ea3c1d9c177b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c25a6ed7dbd45960",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1598514233214,
+        "stop" : 1598514265431,
+        "duration" : 32217
+      }
+    } ]
+  },
+  "36fc812cdcad05a38db4038acd45bd5f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df1aa0c0dba64d6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598514218676,
+        "stop" : 1598514224761,
+        "duration" : 6085
+      }
+    } ]
+  },
+  "2d43735d4078ebbcbabca3fe26afb9bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7753430c14a7321",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598514762285,
+        "stop" : 1598514771038,
+        "duration" : 8753
+      }
+    } ]
+  },
+  "a4dfefd3d665390e4cb1d1df8884ef92" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "746ff5a59732061b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598514754838,
+        "stop" : 1598514754838,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e731a0d7a0ca610fa251b7db41d87c25" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4c4389fe68dd4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598514776364,
+        "stop" : 1598514782489,
+        "duration" : 6125
+      }
+    } ]
+  },
+  "326ec8d35dbb6236fb4ca0c85af6a44a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c70c50633ead38c7",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1598514265473,
+        "stop" : 1598514298698,
+        "duration" : 33225
+      }
+    } ]
+  },
+  "dee4bd3b86e61ed3e09fe83b090d6e10" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8473120bb30bccb3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598514183850,
+        "stop" : 1598514184642,
+        "duration" : 792
+      }
+    } ]
+  },
+  "e963808b05bb31fe9a655524ed884d05" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5f0fde20e9bfd4a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598514176988,
+        "stop" : 1598514176989,
+        "duration" : 1
+      }
+    } ]
+  },
+  "3e5804d4260f23a26d5325a543df2bb6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "12a87d3eb55b109e",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[text()='通过']\"}\n  (Session info: chrome=85.0.4183.83)",
+      "time" : {
+        "start" : 1598514184647,
+        "stop" : 1598514218621,
+        "duration" : 33974
+      }
+    } ]
+  },
+  "3d6f38861f98e8413c07ea2e37d2c08d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b4e9d189a29362a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598514771332,
+        "stop" : 1598514776354,
+        "duration" : 5022
+      }
+    } ]
+  },
+  "7a47067eafb504cb502ef73f7ac4240e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9785260a91d6d3b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598514760822,
+        "stop" : 1598514761957,
+        "duration" : 1135
+      }
+    } ]
+  }
+}

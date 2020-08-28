@@ -1,0 +1,232 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case.mis",
+    "children" : [ {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "TestBegin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "5f0fde20e9bfd4a4",
+          "parentUid" : "92d6fd506fe15de715dba85c857b9e2c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598514176988,
+            "stop" : 1598514176989,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "92d6fd506fe15de715dba85c857b9e2c"
+      } ],
+      "uid" : "1632d54204f30900ab8e5c2e54d882c8"
+    }, {
+      "name" : "test_mis_login",
+      "children" : [ {
+        "name" : "TestMisLogin",
+        "children" : [ {
+          "name" : "test_mis_login",
+          "uid" : "8473120bb30bccb3",
+          "parentUid" : "710db99f1e3d9c6ccd6d5ca8ab9bb824",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598514183850,
+            "stop" : 1598514184642,
+            "duration" : 792
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "710db99f1e3d9c6ccd6d5ca8ab9bb824"
+      } ],
+      "uid" : "6c3c7ab5edaf6b2b941fd82ff4665642"
+    }, {
+      "name" : "test_aritcal_manage",
+      "children" : [ {
+        "name" : "TestAritcalMana",
+        "children" : [ {
+          "name" : "test_aduit_ari_pass",
+          "uid" : "12a87d3eb55b109e",
+          "parentUid" : "385519101969aa008863acb4c734acb4",
+          "status" : "broken",
+          "time" : {
+            "start" : 1598514184647,
+            "stop" : 1598514218621,
+            "duration" : 33974
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "385519101969aa008863acb4c734acb4"
+      } ],
+      "uid" : "05ee9ee16e93c4f22441638ab3de99de"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "TestEnd",
+        "children" : [ {
+          "name" : "test_end",
+          "uid" : "df1aa0c0dba64d6a",
+          "parentUid" : "f2d59446f19e3bc6ded5462f07e92795",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598514218676,
+            "stop" : 1598514224761,
+            "duration" : 6085
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f2d59446f19e3bc6ded5462f07e92795"
+      } ],
+      "uid" : "bf0c7b5b1f57bd0e2056e93fbd586b89"
+    } ],
+    "uid" : "161959b9461abb8732fe0e097cab26a7"
+  }, {
+    "name" : "case.app",
+    "children" : [ {
+      "name" : "test_query_aritcal",
+      "children" : [ {
+        "name" : "TestQyAritcal",
+        "children" : [ {
+          "name" : "test_qy_aritcal_0__",
+          "uid" : "c25a6ed7dbd45960",
+          "parentUid" : "3ba869010f9d3370a5bbd282266652d8",
+          "status" : "broken",
+          "time" : {
+            "start" : 1598514233214,
+            "stop" : 1598514265431,
+            "duration" : 32217
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_qy_aritcal_1_linux",
+          "uid" : "c70c50633ead38c7",
+          "parentUid" : "3ba869010f9d3370a5bbd282266652d8",
+          "status" : "broken",
+          "time" : {
+            "start" : 1598514265473,
+            "stop" : 1598514298698,
+            "duration" : 33225
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3ba869010f9d3370a5bbd282266652d8"
+      } ],
+      "uid" : "ebdf018085c474525ee6a181ca8fe5e2"
+    } ],
+    "uid" : "23e09f0b4ffbacad980fbf5d6f1f9273"
+  }, {
+    "name" : "case.mp",
+    "children" : [ {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "TestBegin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "746ff5a59732061b",
+          "parentUid" : "3c7444421aa48d967fd98d9d2953d445",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598514754838,
+            "stop" : 1598514754838,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3c7444421aa48d967fd98d9d2953d445"
+      } ],
+      "uid" : "5b3bf97fa043c3daa3460017b03b53db"
+    }, {
+      "name" : "test_mp_login",
+      "children" : [ {
+        "name" : "TestMpLogin",
+        "children" : [ {
+          "name" : "test_mp_login",
+          "uid" : "9785260a91d6d3b7",
+          "parentUid" : "5268a13642b16d5069937046a2d4caa2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598514760822,
+            "stop" : 1598514761957,
+            "duration" : 1135
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5268a13642b16d5069937046a2d4caa2"
+      } ],
+      "uid" : "6b60fc946431692c75234dc30a522d97"
+    }, {
+      "name" : "test_pub_aritcle",
+      "children" : [ {
+        "name" : "TestPubAritcle",
+        "children" : [ {
+          "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-软件测试-新增文章成功]",
+          "uid" : "c7753430c14a7321",
+          "parentUid" : "a7aae0c5d8100f11d7eb096939883723",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598514762285,
+            "stop" : 1598514771038,
+            "duration" : 8753
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'软件测试'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+        }, {
+          "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-人工智能-新增文章成功]",
+          "uid" : "b4e9d189a29362a2",
+          "parentUid" : "a7aae0c5d8100f11d7eb096939883723",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598514771332,
+            "stop" : 1598514776354,
+            "duration" : 5022
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'人工智能'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+        } ],
+        "uid" : "a7aae0c5d8100f11d7eb096939883723"
+      } ],
+      "uid" : "0959dbd21a3d7c5c8d31511d7d326651"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "TestEnd",
+        "children" : [ {
+          "name" : "test_end",
+          "uid" : "c4c4389fe68dd4f",
+          "parentUid" : "f7918d47dc6a7a0e6a3c29baa36cc519",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598514776364,
+            "stop" : 1598514782489,
+            "duration" : 6125
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f7918d47dc6a7a0e6a3c29baa36cc519"
+      } ],
+      "uid" : "8c16a6158e4ca1187e1ffb4035fedc9a"
+    } ],
+    "uid" : "1ce536a0a895f6300c151295e589a3fd"
+  } ]
+}

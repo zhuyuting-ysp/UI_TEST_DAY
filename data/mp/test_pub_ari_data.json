@@ -1,0 +1,14 @@
+{
+  "test_pub_ari_01": {
+    "ari_title": "BJ23_TESTER_NB_{}",
+    "ari_context": "很想找一份月薪2w的工作！！！光头也帅！！！",
+    "ari_channel": "软件测试",
+    "expect": "新增文章成功"
+  },
+  "test_pub_ari_02": {
+    "ari_title": "BJ23_TESTER_FCNB_{}",
+    "ari_context": "很想找一份月薪2w的工作！！！光头也帅！！！",
+    "ari_channel": "人工智能",
+    "expect": "新增文章成功"
+  }
+}

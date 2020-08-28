@@ -1,0 +1,57 @@
+{
+  "uid" : "453add26b0fb793b",
+  "name" : "test_end",
+  "fullName" : "case.mis.test_end.TestEnd#test_end",
+  "historyId" : "36fc812cdcad05a38db4038acd45bd5f",
+  "time" : {
+    "start" : 1598445878849,
+    "stop" : 1598445884977,
+    "duration" : 6128
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=199)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mis"
+  }, {
+    "name" : "suite",
+    "value" : "test_end"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEnd"
+  }, {
+    "name" : "host",
+    "value" : "zyt"
+  }, {
+    "name" : "thread",
+    "value" : "18896-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mis.test_end"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=199)" ]
+  },
+  "source" : "453add26b0fb793b.json",
+  "parameterValues" : [ ]
+}

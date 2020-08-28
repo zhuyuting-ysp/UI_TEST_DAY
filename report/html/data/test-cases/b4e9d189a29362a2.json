@@ -1,0 +1,191 @@
+{
+  "uid" : "b4e9d189a29362a2",
+  "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-很想找一份月薪2w的工作！！！光头也帅！！！-人工智能-新增文章成功]",
+  "fullName" : "case.mp.test_pub_aritcle.TestPubAritcle#test_pub_ari",
+  "historyId" : "3d6f38861f98e8413c07ea2e37d2c08d",
+  "time" : {
+    "start" : 1598514771332,
+    "stop" : 1598514776354,
+    "duration" : 5022
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1598514771049,
+      "stop" : 1598514771325,
+      "duration" : 276
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598514761961,
+      "stop" : 1598514761961,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1598514776359,
+      "stop" : 1598514776359,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598514776360,
+      "stop" : 1598514776360,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mp"
+  }, {
+    "name" : "suite",
+    "value" : "test_pub_aritcle"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPubAritcle"
+  }, {
+    "name" : "host",
+    "value" : "zyt"
+  }, {
+    "name" : "thread",
+    "value" : "12920-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mp.test_pub_aritcle"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "ari_channel",
+    "value" : "'人工智能'"
+  }, {
+    "name" : "ari_context",
+    "value" : "'很想找一份月薪2w的工作！！！光头也帅！！！'"
+  }, {
+    "name" : "ari_title",
+    "value" : "'BJ23_TESTER_FCNB_{}'"
+  }, {
+    "name" : "expect",
+    "value" : "'新增文章成功'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3758e4984ff8a092",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.JavascriptException: Message: javascript error: Failed to execute 'elementsFromPoint' on 'Document': The provided double value is non-finite.\n  (Session info: chrome=85.0.4183.83)",
+      "time" : {
+        "start" : 1598514722969,
+        "stop" : 1598514726981,
+        "duration" : 4012
+      }
+    }, {
+      "uid" : "c83ffd0d1d37fd52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598514165960,
+        "stop" : 1598514170877,
+        "duration" : 4917
+      }
+    }, {
+      "uid" : "2f753acf5c0522ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598445848725,
+        "stop" : 1598445853701,
+        "duration" : 4976
+      }
+    }, {
+      "uid" : "6147ed95c2367ada",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598445709421,
+        "stop" : 1598445714461,
+        "duration" : 5040
+      }
+    }, {
+      "uid" : "af0ea1387619f03c",
+      "status" : "broken",
+      "statusDetails" : "TypeError: object of type 'NoneType' has no len()",
+      "time" : {
+        "start" : 1598445503090,
+        "stop" : 1598445504120,
+        "duration" : 1030
+      }
+    }, {
+      "uid" : "91a82f5f22262962",
+      "status" : "broken",
+      "statusDetails" : "TypeError: object of type 'NoneType' has no len()",
+      "time" : {
+        "start" : 1598445364852,
+        "stop" : 1598445365692,
+        "duration" : 840
+      }
+    }, {
+      "uid" : "39109da68dfd5844",
+      "status" : "broken",
+      "statusDetails" : "TypeError: object of type 'NoneType' has no len()",
+      "time" : {
+        "start" : 1598432256384,
+        "stop" : 1598432257363,
+        "duration" : 979
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=3)" ]
+  },
+  "source" : "b4e9d189a29362a2.json",
+  "parameterValues" : [ "'人工智能'", "'很想找一份月薪2w的工作！！！光头也帅！！！'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+}

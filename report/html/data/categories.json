@@ -1,0 +1,56 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[text()='通过']\"}\n  (Session info: chrome=85.0.4183.83)",
+      "children" : [ {
+        "name" : "test_aduit_ari_pass",
+        "uid" : "12a87d3eb55b109e",
+        "parentUid" : "d2766a3508fc72ba1c0c695b1e24247c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598514184647,
+          "stop" : 1598514218621,
+          "duration" : 33974
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d2766a3508fc72ba1c0c695b1e24247c"
+    }, {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "children" : [ {
+        "name" : "test_qy_aritcal_0__",
+        "uid" : "c25a6ed7dbd45960",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598514233214,
+          "stop" : 1598514265431,
+          "duration" : 32217
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_qy_aritcal_1_linux",
+        "uid" : "c70c50633ead38c7",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598514265473,
+          "stop" : 1598514298698,
+          "duration" : 33225
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a823ebd65a5f17ad39e628108c6e522"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
